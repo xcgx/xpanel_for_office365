@@ -20,3 +20,11 @@ A third-party contral panel based on Python and SQL for office365.
 - [ ]  Proxy.
 - [ ]  One_key output profile with excel to **[o365](https://github.com/vanyouseea/o365).**
 - [ ]  Lookup azure panel and subs.
+
+# ****Third Party Libs****
+
+chardet sqlalchemy
+
+# ****Known bugs****
+
+empty txt/csv will crash file_initialization.py
